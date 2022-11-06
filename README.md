@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Dilyan Iliev</h1>
+<h1 align="center">Hey there 👋, I am Dilyan Iliev</h1>
 
 🎓 I’m currently learning C# Web & JS Web Development.
 
