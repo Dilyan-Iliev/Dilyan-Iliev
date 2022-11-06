@@ -13,5 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilyan-Iliev&show_icons=true&locale=en" alt="Dilyan-Iliev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilyan-Iliev&" alt="blagodamqnov" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilyan-Iliev&&theme=tokyonight&hide_border=true" alt="blagodamqnov" /></p>
