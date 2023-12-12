@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋</h1> 
 
-🎓 I’m currently learning C# Web & JS Web Development.
-
-👀 I’m interested in C# and JS Web Development and I am currently attending practically oriented courses where different problems and projects are done - more about that in my repos.
+👀 I’m interested in C# and JS Web Development
 
 📧 How to reach me - dilqnn.ilievv@abv.bg
 
